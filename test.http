@@ -1,0 +1,8 @@
+POST https://lv4gpf8kfk.execute-api.us-east-1.amazonaws.com/prod/bets
+content-type: application/json
+
+{
+    
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT",
+    "age":34
+}
